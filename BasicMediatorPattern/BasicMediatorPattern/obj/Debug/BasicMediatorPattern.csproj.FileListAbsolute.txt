@@ -1,0 +1,10 @@
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\bin\Debug\BasicMediatorPattern.exe.config
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\bin\Debug\BasicMediatorPattern.exe
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\bin\Debug\BasicMediatorPattern.pdb
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.csprojAssemblyReference.cache
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.frmCountries.resources
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.Properties.Resources.resources
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.csproj.GenerateResource.cache
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.csproj.CoreCompileInputs.cache
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.exe
+D:\.Net Core\BasicMediatorPattern\BasicMediatorPattern\obj\Debug\BasicMediatorPattern.pdb
