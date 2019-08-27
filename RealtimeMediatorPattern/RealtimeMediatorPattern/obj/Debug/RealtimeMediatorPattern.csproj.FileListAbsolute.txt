@@ -1,0 +1,10 @@
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.frmCountries.resources
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.Properties.Resources.resources
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.csproj.GenerateResource.cache
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.csproj.CoreCompileInputs.cache
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\bin\Debug\RealtimeMediatorPattern.exe.config
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\bin\Debug\RealtimeMediatorPattern.exe
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\bin\Debug\RealtimeMediatorPattern.pdb
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.exe
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.pdb
+D:\.Net Core\RealtimeMediatorPattern\RealtimeMediatorPattern\obj\Debug\RealtimeMediatorPattern.csprojAssemblyReference.cache
