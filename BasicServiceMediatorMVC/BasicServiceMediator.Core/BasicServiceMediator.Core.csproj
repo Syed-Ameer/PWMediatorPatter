@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaseCommandPipelineModule.cs" />
+    <Compile Remove="BaseRequestHandler.cs" />
+    <Compile Remove="BaseRequestPostProcessor.cs" />
+    <Compile Remove="BaseRequestPreProcessor.cs" />
+    <Compile Remove="EmployeeMediator.cs" />
+    <Compile Remove="EmployeeRequest.cs" />
+    <Compile Remove="RegisterExtensions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

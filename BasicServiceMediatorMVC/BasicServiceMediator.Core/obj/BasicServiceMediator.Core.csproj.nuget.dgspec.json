@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.Net Core\\BasicServiceMediatorMVC\\BasicServiceMediator.Core\\BasicServiceMediator.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\.Net Core\\BasicServiceMediatorMVC\\BasicServiceMediator.Core\\BasicServiceMediator.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net Core\\BasicServiceMediatorMVC\\BasicServiceMediator.Core\\BasicServiceMediator.Core.csproj",
+        "projectName": "BasicServiceMediator.Core",
+        "projectPath": "D:\\.Net Core\\BasicServiceMediatorMVC\\BasicServiceMediator.Core\\BasicServiceMediator.Core.csproj",
+        "packagesPath": "C:\\Users\\syeda\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net Core\\BasicServiceMediatorMVC\\BasicServiceMediator.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
